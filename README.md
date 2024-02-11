@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="right">[![LinkedIn][linkedin-shield]][linkedin-url]</p>
 
 
 
