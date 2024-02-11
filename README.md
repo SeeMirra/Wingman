@@ -112,7 +112,7 @@ Wingman is built on top of a Ray Cluster so it can either be scalable and distri
 <p align="center">
   <img src="wingman.gif" alt="Animated Gif (pronounced with a J sound) of wingman in action. It displays creating the embedding, starting the ray server, and querying the new trained model.">
 </p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -132,7 +132,7 @@ Link | Name | Developer | Description
 [Link](https://github.com/wention/BeautifulSoup4) | Beautiful Soup | The Linux Foundation | Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 [Link](https://github.com/ilevkivskyi/typing_inspect) | Typing_Inspect | Ivan Levkivskyi | The typing_inspect module defines an experimental API for runtime inspection of types defined in the Python standard typing module.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -157,7 +157,7 @@ TODO - Brief instructions below, longer ones to come later
 
 Adding an interim launcher as well as a UI are both on the current roadmap.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -176,7 +176,7 @@ python query.py "what is the api endpoint of the Agent Client Collector API"
 The API endpoint of the Agent Client Collector API is "https://<sn_agent-host>:<sn_agent-port>/api/agent-client-collector/admin".
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -200,7 +200,7 @@ The API endpoint of the Agent Client Collector API is "https://<sn_agent-host>:<
 
 See the [open issues](https://github.com/Seemirra/Wingman/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -218,7 +218,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. [Open a Pull Request](https://github.com/SeeMirra/Wingman/compare)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -229,7 +229,7 @@ Commercial use prohibited.
 
 Contact us for a commercial license for our Enterprise Version.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -240,7 +240,7 @@ Christian Mirra - [LinkedIn](https://www.linkedin.com/in/chris-mirra-375b5488/)
 
 Project Link: [https://github.com/SeeMirra/Wingman/](https://github.com/SeeMirra/Wingman)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
@@ -249,7 +249,7 @@ Project Link: [https://github.com/SeeMirra/Wingman/](https://github.com/SeeMirra
 
 Todo -- This list is currently incomplete
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">⬆️</a></p>
 
 
 
