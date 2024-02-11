@@ -256,7 +256,7 @@ Todo -- This list is currently incomplete
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/chris-mirra-375b5488/
 [product-screenshot]: images/screenshot.png
 [Ray.io]: https://img.shields.io/badge/Ray-E56717?style=for-the-badge&logo=Ray&logoColor=white
