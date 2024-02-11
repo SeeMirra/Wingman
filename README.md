@@ -83,7 +83,7 @@ This tooling will accept input in the form of a github repo url, pdf file, or lo
 
 ```
 generate_embedding_github/pdf.py
-• Break apart your input data into managable chunks
+• Break apart your input data into manageable chunks
 • Send chunked data to Ray Serve Cluster
 • Use Ray Cluster to create an embedding from our input chunks
 
