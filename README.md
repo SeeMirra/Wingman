@@ -129,7 +129,7 @@ Link | Name | Developer | Description
 [Link](https://github.com/ray-project/ray) | Ray | Ray Project | Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 [Link](https://www.python.org) | Python | Python Software Foundation | Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 [Link](https://github.com/pytorch/pytorch) | PyTorch | The Linux Foundation | Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-[Link](https://github.com/wention/BeautifulSoup4) | Beautiful Soup | The Linux Foundation | Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+[Link](https://github.com/wention/BeautifulSoup4) | Beautiful Soup | Leonard Richardson | Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 [Link](https://github.com/ilevkivskyi/typing_inspect) | Typing_Inspect | Ivan Levkivskyi | The typing_inspect module defines an experimental API for runtime inspection of types defined in the Python standard typing module.
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
