@@ -183,9 +183,11 @@ The API endpoint of the Agent Client Collector API is "https://<sn_agent-host>:<
 <!-- ROADMAP -->
 ## Roadmap
 
+For Additional Features such as Page Number Citations, Additional Programming Language Compability, Multi-LLM Pipelines (summarize relevant passages for better context utilization), Mulimodal Model Support (Train your knowledge embedding based on data in images), Increased Accuracy via 3D Vector Database (Vector Cloud) Support, Agent Support (Complete tasks based on facts in ingested knowledge source), Docker & Kubernetes Support, and more please contact us about our Enterprise Software Suite.
+
 - [x] Create Readme
 - [x] Create requirements.txt
-- [ ] Refine requirements.txt
+- [x] Refine requirements.txt
 - [ ] Basic Launcher Script
 - [ ] Screenshots
 - [ ] User Interface
