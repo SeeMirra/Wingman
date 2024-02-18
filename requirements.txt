@@ -1,8 +1,13 @@
-faiss-cpu
+torch
 langchain < 0.0.154 
+langchain-community
+faiss-cpu
 mypy-extensions
 openai
 openapi-schema-pydantic
 sentence-transformers
-torch
 typing-inspect
+ray[serve]
+pypdf
+git
+accelerate
