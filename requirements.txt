@@ -9,5 +9,5 @@ sentence-transformers
 typing-inspect
 ray[serve]
 pypdf
-git
+gitpython
 accelerate
