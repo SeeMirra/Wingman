@@ -148,14 +148,14 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-TODO - Brief instructions below, longer ones to come later
-
-1. pip install -r requirements.txt (May be missing a dep or two -- fixing this is on the <a href="#roadmap">roadmap</a>.)
+Once you are in the project folder and have your venv/conda environment loaded, run the following:
+1. pip install -r requirements.txt
 2. python generate_embedding_pdf.py ./PathTo/local.pdf
-3. serve run serve:deployment
-4. python query.py "what is the api endpoint to disable data collection for a specified agent"
+3. (Optional) Modify prompt in serve.py on line 30 to suit your use case
+4. serve run serve:deployment
+5. python query.py "what is the api endpoint to disable data collection for a specified agent"
 
-Adding an interim launcher as well as a UI are both on the current roadmap.
+Adding an interim launcher as well as a UI are both on the current roadmap for this open source edition.
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
