@@ -145,6 +145,7 @@ To get a local copy up and running follow these simple steps.
 
 - [x] 16+GB of VRam (24GB Recommended)
 - [x] Whatever Python Virtual Environment You'd like<br />(We like MiniConda)
+- [x] Linux or WSL
 
 ### Installation
 
