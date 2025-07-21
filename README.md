@@ -28,9 +28,9 @@
   <h2 align="center"><img src="wingman_logo.png" /></h2>
 
   <p align="center">
-    Pretrain your Machine Learning Models (LLM) with your own data
+    Create Context-Aware Q&A Interfaces from Your Own Data with LLMs and Vector Embeddings
     <br />
-    Comes complete with an Automated Embedding Generator and model Q&A Interface
+    Includes an automated embedding pipeline and a model-powered Q&A interface
     <br />
     <a href="#demo-animation">View Demo</a>
     ·
@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Automatically Pretrain your Machine Learning Models (LLM) with:
+Create Context-Aware Q&A Interfaces from Your Own Data with LLMs and Vector Embeddings by using:
 - [x] PDF Files
 - [x] Github Repositories
 - [x] Scraped HTML files in a local folder
